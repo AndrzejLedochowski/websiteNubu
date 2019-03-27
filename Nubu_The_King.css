@@ -1,18 +1,19 @@
 h1 {
     color: red;
+    text-align: center;
     font-style: inherit;
-    text-align: centre;
+    
 }
 h3 {
     color: yellowgreen;
     font-style: italic;
     text-align: center;
 }
-li {
+/*li {
     color: black;
     font-style: italic;
     font-size: 25px;
-}
+}*/
 img { 
     scale: "float"
     left; margin-right:10px;
@@ -23,15 +24,19 @@ img {
     }
 
     h5 {
-        color: black;
-        font-style: italic;
         text-align: center;
+        color: black;
+        font-style: inherit;
+        
         left: 15px; right:15px}
 
         h1{
             font-style: distressed
         }
-    
+    .review {
+        font-style: italic;
+        text-align: center; 
+    }
     
 
 
